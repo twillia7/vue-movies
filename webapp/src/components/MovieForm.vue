@@ -9,6 +9,9 @@
         {{ title.name }}
       </li>
     </ul>
+    <div>
+      Data provided by The Movie DB
+    </div>
   </div>
 </template>
 
